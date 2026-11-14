@@ -1,7 +1,5 @@
 # Autonomous Vehicle Management System (AVMS)
 
-**Academic project:** COMP1002 – Data Structures and Algorithms  
-**Institution:** Curtin University  
 **Language:** Java
 
 ## Overview
@@ -106,8 +104,3 @@ The existing test harness checks one distance example, but that test does not di
 - Validate road distances and battery-level input.
 - Improve error messages when locations or vehicles cannot be added, found, or deleted.
 - Separate source files into Java packages and introduce a repeatable build configuration.
-
-## Academic context
-
-This project was developed as an individual assignment for **COMP1002 – Data Structures and Algorithms**. The implementation demonstrates custom data structures and algorithmic techniques in Java.
-
